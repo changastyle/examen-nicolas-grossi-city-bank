@@ -1,0 +1,16 @@
+com\nicolasgrossi\interfaces\IGuerreroService.class
+com\nicolasgrossi\modelo\Guerrero.class
+com\nicolasgrossi\modelo\Ejercito.class
+com\nicolasgrossi\ExamenNicolasGrossi.class
+com\nicolasgrossi\interfaces\IRolService.class
+com\nicolasgrossi\modelo\ReporteEjercito.class
+com\nicolasgrossi\MasterController.class
+com\nicolasgrossi\ws\wsEjercito.class
+com\nicolasgrossi\service\RolService.class
+com\nicolasgrossi\modelo\MovimientoJugador.class
+com\nicolasgrossi\service\EjercitoService.class
+com\nicolasgrossi\ws\wsWeb.class
+com\nicolasgrossi\interfaces\IAccionesGuerrero.class
+com\nicolasgrossi\interfaces\IEjercitoService.class
+com\nicolasgrossi\modelo\Rol.class
+com\nicolasgrossi\service\GuerreroService.class
